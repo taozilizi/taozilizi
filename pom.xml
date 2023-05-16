@@ -91,7 +91,7 @@
                       <manifest>
                           <addClasspath>true</addClasspath>
                           <classpathPrefix>lib/</classpathPrefix>
-                          <mainClass>com.free.taozilizi.biz.Start</mainClass>
+                          <mainClass>taozi.Start</mainClass>
                       </manifest>
                   </archive>
               </configuration>
